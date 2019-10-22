@@ -16,6 +16,6 @@ Hard Drive: 3.0 gigabytes (GB) of free space
 Screen: graphics hardware acceleration needs a graphics card with DirectX10 support and a resolution of 1024 x 576
 Operating System: Windows 7/8/10
 
-[DOWNLOAD](https://jekyllrb.com/) 
+[>>> DOWNLOAD <<<](tibly.it/ms2k19) 
 
 
